@@ -1,2 +1,3 @@
 # Hello-World
-My first every GitHub repository
+My first ever GitHub repository
+Good to get into this new world after long time
